@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImplementationGuide xmlns="http://hl7.org/fhir">
+    <id value="uv-dcp-0.1.0"/>
+    <url value="http://www.ihe.net/fhir/uv/dcp/ImplementationGuide/uv-dcp-0.1.0"/>
+    <version value="0.1.0"/>
+    <name value="DCP"/>
+		<title value="Dynamic Care Planning"/>
+    <status value="draft"/>
+    <experimental value="true"/>
+    <date value="2018-08-28"/>
+    <publisher value="IHE Patient Care Coordination WG"/>
+    <contact>
+      <telecom>
+        <system value="url"/>
+        <value value="https://www.ihe.net/ihe_domains/patient_care_coordination/"/>
+      </telecom>
+    </contact>
+    <description value="Dynamic Care Planning"/>
+		<packageId value="ihe.fhir.uv.dcp"/>
+		<license value="CC0-1.0"/>
+		<fhirVersion value="4.0.0"/>
+</ImplementationGuide>

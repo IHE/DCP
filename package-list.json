@@ -1,0 +1,15 @@
+{
+   "package-id": "ihe.fhir.uv.dcp",
+   "title": "IHE - Dynamic Care Planning",
+   "canonical": "http://www.ihe.net/fhir/uv/dcp",
+   "introduction": "Dynamic Care Planning",
+   "list": [
+      {
+         "version": "current",
+         "desc": "Continuous Integration Build for FHIR R4 (latest in version control)",
+         "path": "http://build.fhir.org/ig/IHE/DCP",
+         "status": "ci-build",
+         "current": true
+      }
+   ]
+}
