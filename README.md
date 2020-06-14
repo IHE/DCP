@@ -2,6 +2,8 @@
 
 Dynamic Care Planning implementation guide
 
+> This repository was put together to help explore capabilities for FHIR build tooling to support IHE supplement development. Since it was created, there have been several improvements in the FHIR publication tooling, including the use of templates. This IG should be updated to use templates, and specifically the [IHE Supplement](https://github.com/IHE/supplement-template) template. In addition, the IG should be reviewed for adherence to IHE [Guidance on Writing Profiles of FHIR](https://wiki.ihe.net/index.php/Guidance_on_writing_Profiles_of_FHIR)
+
 Commits to this repository will automatically trigger a new build of the IG, which will then be published to the following location:
 
 [http://build.fhir.org/ig/IHE/DCP](http://build.fhir.org/ig/IHE/DCP)
